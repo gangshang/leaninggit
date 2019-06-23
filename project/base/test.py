@@ -13,3 +13,4 @@ print(sub)
 v=[1,23,3,34]
 m="失败编号为%s。"%v
 print(m)
+print(v)
