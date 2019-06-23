@@ -56,5 +56,5 @@ class RunTest:
 
 if __name__=='__main__':
     a=RunTest()
-    a.go_on_test()
+    a.go_on_test()#调用对象方法
 
